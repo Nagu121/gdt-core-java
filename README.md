@@ -1,2 +1,2 @@
-# gdt-core-java
+# gqt-core-java
 core java learing
