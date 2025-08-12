@@ -26,6 +26,7 @@ public class ReverseStringworWise {
 		int temp=arr.length-1;
 		String temp_str="";
 		for(int i=str.length()-1;i>=0;i++);
+			int i;
 			if(str.charAt(i)!=' ') {
 		    	temp_str+=str.charAt(i);	
 		    }
